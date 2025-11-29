@@ -7,6 +7,8 @@ leonardovich337<br>
 Gengar<br>
 kirieshk49<br>
 ruthenix<br>
+Axoper<br>
+noncker<br>
 
 ## Хочешь стать участником и ты? Напиши `ruthenix` в личные сообщения дискорд или на сервере РМК.
 
