@@ -4,6 +4,7 @@
   
 [![Discord](https://img.shields.io/badge/RMC_Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KJpJbVVdEY)
 ![Last Commit](https://img.shields.io/github/last-commit/RuthenixDev/RMC-assets-pack?style=for-the-badge&logo=github&logoColor=white&color=blue)
+![Last Release](https://img.shields.io/github/v/release/RuthenixDev/RMC-assets-pack?label=Last%20Release&style=for-the-badge&logo=github&color=blue)
 
 </div>
 
