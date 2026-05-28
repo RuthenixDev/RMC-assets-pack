@@ -20,6 +20,7 @@ kirieshk49<br>
 ruthenix<br>
 Axoper<br>
 noncker<br>
+Settrol<br>
 
 ## Хочешь поделиться своими ассетами? Напиши сообщение на сервере РМК в канале `#gfx-чат` с упоминанием `@Ruthenix`.
 
