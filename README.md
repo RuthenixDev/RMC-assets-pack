@@ -22,6 +22,7 @@ Axoper<br>
 noncker<br>
 Settrol<br>
 Bub Linke<br>
+marcille<br>
 
 ## Хочешь поделиться своими ассетами? Напиши сообщение на сервере РМК в канале `#gfx-чат` с упоминанием `@Ruthenix`.
 
