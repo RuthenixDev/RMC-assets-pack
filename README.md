@@ -29,6 +29,7 @@ Settrol<br>
 Bub Linke<br>
 marcille<br>
 pug<br>
+NightDragonPlayz<br>
 
 ### Want to share your own assets? 
 Drop a message on the RMC server in the `#gfx-чат` channel and mention `@Ruthenix`.
@@ -56,6 +57,7 @@ Settrol<br>
 Bub Linke<br>
 marcille<br>
 pug<br>
+NightDragonPlayz<br>
 
 ### Хочешь поделиться своими ассетами? 
 Напиши сообщение на сервере РМК в канале `#gfx-чат` с упоминанием `@Ruthenix`.
