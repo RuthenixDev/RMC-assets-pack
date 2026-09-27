@@ -31,6 +31,7 @@ marcille<br>
 pug<br>
 Tynfawd<br>
 NightDragonPlayz<br>
+spatula<br>
 
 ### Want to share your own assets? 
 Drop a message on the RMC server in the `#gfx-чат` channel and mention `@Ruthenix`.
@@ -60,6 +61,7 @@ marcille<br>
 pug<br>
 Tynfawd<br>
 NightDragonPlayz<br>
+spatula<br>
 
 ### Хочешь поделиться своими ассетами? 
 Напиши сообщение на сервере РМК в канале `#gfx-чат` с упоминанием `@Ruthenix`.
